@@ -1,5 +1,5 @@
 # T-LOAV7
-A private project using Grafana for displaying aviation data.
+A private project using Grafana to display aviation data and make your own type of Flightradar24.
 
 # Description
 This project uses Grafana to visualize data from an ADS-B antenna.
