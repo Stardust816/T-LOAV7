@@ -1,4 +1,4 @@
-# T-LOAV7 flight tracking solution
+# "T-LOAV7" flight tracking solution
 A private project using Grafana to display aviation data and make your own type of Flightradar24.
 
 # Description
